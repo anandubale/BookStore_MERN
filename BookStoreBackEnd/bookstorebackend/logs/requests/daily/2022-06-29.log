@@ -6,3 +6,83 @@ info: ::1 - - [29/Jun/2022:03:45:05 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 
 
 info: ::1 - - [29/Jun/2022:03:45:05 +0000] "GET /api/v1/books HTTP/1.1" 200 9282 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
 
+info: ::1 - - [29/Jun/2022:03:45:42 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:45:42 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:45:43 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:45:43 +0000] "GET /api/v1/books HTTP/1.1" 200 9282 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:46:35 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:46:35 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:46:35 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:46:35 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:46:36 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:46:36 +0000] "GET /api/v1/books HTTP/1.1" 200 9282 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:46:36 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:46:36 +0000] "GET /api/v1/books HTTP/1.1" 200 9282 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:46:45 +0000] "GET /api/v1/books HTTP/1.1" 200 9282 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:46:45 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:46:45 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:46:45 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:47:05 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:47:05 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:47:05 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:47:05 +0000] "GET /api/v1/books HTTP/1.1" 200 9282 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:48:44 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:48:44 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:48:44 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:48:44 +0000] "GET /api/v1/books HTTP/1.1" 200 9282 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:48:55 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:48:55 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:48:58 +0000] "GET /api/v1/books HTTP/1.1" 200 9282 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:48:58 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:50:06 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:50:06 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:50:07 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:50:07 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:50:07 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:50:07 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:50:07 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:50:07 +0000] "POST /api/v1/cart HTTP/1.1" 200 545 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:50:07 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:50:07 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:50:07 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
+info: ::1 - - [29/Jun/2022:03:50:07 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+
