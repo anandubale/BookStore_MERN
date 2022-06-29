@@ -1,0 +1,66 @@
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:02:53:59 +0000] "PUT /api/v1/cart/increase/62ac6300ec9b9247bce6c579 HTTP/1.1" 404 88 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:02:54:04 +0000] "PUT /api/v1/cart/increase/62ac6300ec9b9247bce6c579 HTTP/1.1" 404 88 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:02:54:50 +0000] "PUT /api/v1/cart/increase/62ac6300ec9b9247bce6c579 HTTP/1.1" 200 45 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:02:55:22 +0000] "PUT /api/v1/cart/increase/62ac6300ec9b9247bce6c579 HTTP/1.1" 200 45 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:02:55:47 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 45 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:03:00:15 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 405 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:03:01:35 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 405 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:03:07:48 +0000] "PUT /api/v1/userinfo/details/ HTTP/1.1" 201 397 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:03:09:35 +0000] "PUT /api/v1/userinfo/details/ HTTP/1.1" 201 397 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:03:09:48 +0000] "PUT /api/v1/userinfo/details/ HTTP/1.1" 201 433 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::1 - - [20/Jun/2022:03:18:20 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+
+info: ::1 - - [20/Jun/2022:03:18:20 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+
+info: ::1 - - [20/Jun/2022:06:19:41 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+
+info: ::1 - - [20/Jun/2022:06:19:41 +0000] "GET /api/v1/books HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:20:03 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 404 62 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:20:55 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 405 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:21:03 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 405 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:21:07 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 405 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:30:15 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 45 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:32:05 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 45 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:33:31 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 45 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:34:28 +0000] "GET /api/v1/cart HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:34:38 +0000] "GET /api/v1/book/ HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:35:15 +0000] "GET /api/v1/book/ HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:35:34 +0000] "GET /api/v1/book HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:35:48 +0000] "GET /api/v1/books HTTP/1.1" 200 9282 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:36:47 +0000] "POST /api/v1/cart/add/6215178d05253301a4fda5c4 HTTP/1.1" 200 566 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:36:57 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 45 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:37:55 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 45 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:38:37 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 45 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:42:54 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 45 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:43:32 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 45 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [20/Jun/2022:15:47:09 +0000] "PUT /api/v1/cart/increase/6215178d05253301a4fda5c4 HTTP/1.1" 200 45 "-" "Thunder Client (https://www.thunderclient.com)"
+

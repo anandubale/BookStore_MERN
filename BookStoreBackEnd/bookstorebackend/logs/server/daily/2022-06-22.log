@@ -1,0 +1,177 @@
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-21T18:36:23.172Z"}
+info: Connected to the database. {"timestamp":"2022-06-21T18:36:23.239Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215890d05253301a4fda5d1 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-21T18:36:34.393Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215890d05253301a4fda5d1 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-21T18:36:38.452Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-21T18:37:01.968Z"}
+info: Connected to the database. {"timestamp":"2022-06-21T18:37:02.029Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215888305253301a4fda5cd 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-21T18:37:13.248Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-21T18:37:36.216Z"}
+info: Connected to the database. {"timestamp":"2022-06-21T18:37:36.325Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215888305253301a4fda5cd 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-21T18:37:40.360Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-21T18:38:16.105Z"}
+info: Connected to the database. {"timestamp":"2022-06-21T18:38:16.173Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-21T18:40:13.988Z"}
+info: Connected to the database. {"timestamp":"2022-06-21T18:40:14.103Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215888305253301a4fda5cd 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-21T18:40:16.225Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215888305253301a4fda5cd 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-21T18:40:17.559Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-21T18:41:19.555Z"}
+info: Connected to the database. {"timestamp":"2022-06-21T18:41:19.592Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215888305253301a4fda5cd 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-21T18:41:24.207Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-21T18:41:45.452Z"}
+info: Connected to the database. {"timestamp":"2022-06-21T18:41:45.499Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215888305253301a4fda5cd 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-21T18:41:48.978Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215178d05253301a4fda5c4 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-21T18:42:31.732Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-21T18:43:03.202Z"}
+info: Connected to the database. {"timestamp":"2022-06-21T18:43:03.235Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215178d05253301a4fda5c4 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-21T18:43:07.424Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-21T18:43:50.283Z"}
+info: Connected to the database. {"timestamp":"2022-06-21T18:43:50.325Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-21T18:44:00.227Z"}
+info: Connected to the database. {"timestamp":"2022-06-21T18:44:00.271Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215178d05253301a4fda5c4 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-21T18:44:08.880Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/wishlist/add/6215178d05253301a4fda5c4 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-21T18:50:31.479Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/wishlist/add/6215178d05253301a4fda5c4 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-21T18:52:23.420Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215178d05253301a4fda5c4 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-21T18:53:29.527Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-22T02:17:01.393Z"}
+info: Connected to the database. {"timestamp":"2022-06-22T02:17:01.420Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-22T02:19:06.847Z"}
+info: Connected to the database. {"timestamp":"2022-06-22T02:19:06.899Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6214803b05253301a4fda584 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-22T02:19:58.028Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6214803b05253301a4fda584 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-22T02:20:18.595Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-22T02:57:03.571Z"}
+info: Connected to the database. {"timestamp":"2022-06-22T02:57:03.595Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/62158a8405253301a4fda5e0 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-22T03:27:49.971Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/62158a8405253301a4fda5e0 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-22T03:27:51.984Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/wishlist/add/6215895605253301a4fda5d4 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-22T03:28:24.140Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215895605253301a4fda5d4 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-22T03:28:25.314Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/621588d505253301a4fda5cf 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-22T08:35:16.158Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-22T16:50:50.823Z"}
+info: Connected to the database. {"timestamp":"2022-06-22T16:50:50.924Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-22T17:01:57.681Z"}
+info: Connected to the database. {"timestamp":"2022-06-22T17:01:57.827Z"}

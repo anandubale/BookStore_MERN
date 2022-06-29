@@ -1,0 +1,418 @@
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T02:42:44.321Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T02:42:45.699Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T02:44:31.524Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T02:44:31.766Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:15:05.444Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:15:05.520Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:15:41.380Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:15:41.412Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:16:09.465Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:16:09.494Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:16:22.224Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:16:22.248Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:16:36.498Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:16:36.528Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:17:00.720Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:17:00.749Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:17:30.044Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:17:30.069Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6214803b05253301a4fda584 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-23T06:17:56.611Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:18:34.340Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:18:34.367Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6214803b05253301a4fda584 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-23T06:21:15.949Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:22:16.981Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:22:17.009Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6214803b05253301a4fda584 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-23T06:22:19.604Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:22:35.776Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:22:35.800Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6214803b05253301a4fda584 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-23T06:22:37.969Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:26:16.432Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:26:16.459Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6214803b05253301a4fda584 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-23T06:26:20.914Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:26:33.418Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:26:33.447Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6214803b05253301a4fda584 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-23T06:26:36.895Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:26:51.658Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:26:51.689Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:27:33.388Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:27:33.415Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6214803b05253301a4fda584 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-23T06:27:39.320Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:27:58.243Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:27:58.266Z"}
+error: 
+    status - 500 
+    message - TypeError: name argument is required to req.get
+    at IncomingMessage.header (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\request.js:67:11)
+    at _callee$ (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:37:30)
+    at tryCatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at bookAuth (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:34:22)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:284:15 
+    url - /api/v1/cart/add/6214803b05253301a4fda584 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-23T06:27:58.416Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:28:16.859Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:28:16.891Z"}
+error: 
+    status - 500 
+    message - TypeError: name argument is required to req.get
+    at IncomingMessage.header (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\request.js:67:11)
+    at _callee$ (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:37:30)
+    at tryCatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at bookAuth (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:34:22)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:284:15 
+    url - /api/v1/cart/add/6214803b05253301a4fda584 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-23T06:28:21.409Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:28:59.463Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:28:59.488Z"}
+error: 
+    status - 500 
+    message - ReferenceError: headers is not defined
+    at _callee$ (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:37:37)
+    at tryCatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at bookAuth (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:34:22)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:365:14) 
+    url - /api/v1/cart/add/6214803b05253301a4fda584 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-23T06:29:02.861Z"}
+error: 
+    status - 500 
+    message - ReferenceError: headers is not defined
+    at _callee$ (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:37:37)
+    at tryCatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at bookAuth (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:34:22)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:365:14) 
+    url - /api/v1/cart/add/6214803b05253301a4fda584 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-23T06:29:06.086Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:29:17.958Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:29:17.983Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6214803b05253301a4fda584 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-23T06:29:21.314Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:30:13.958Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:30:13.984Z"}
+error: 
+    status - 500 
+    message - TypeError: req.headers is not a function
+    at _callee$ (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:37:30)
+    at tryCatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at bookAuth (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:34:22)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:365:14) 
+    url - /api/v1/cart/add/6214803b05253301a4fda584 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-23T06:30:16.933Z"}
+error: 
+    status - 500 
+    message - TypeError: req.headers is not a function
+    at _callee$ (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:37:30)
+    at tryCatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at bookAuth (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:34:22)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:365:14) 
+    url - /api/v1/cart/add/6214803b05253301a4fda584 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-23T06:30:20.629Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:30:33.338Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:30:33.364Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:30:43.236Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:30:43.258Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6214803b05253301a4fda584 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-23T06:30:46.762Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:31:15.459Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:31:15.487Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6214803b05253301a4fda584 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-23T06:31:17.669Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:31:38.764Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:31:38.790Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6214803b05253301a4fda584 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-23T06:31:43.665Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:31:59.600Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:31:59.625Z"}
+error: 
+    status - 500 
+    message - TypeError: req.body.headers is not a function
+    at _callee$ (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:37:35)
+    at tryCatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at bookAuth (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:34:22)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:365:14) 
+    url - /api/v1/cart/add/6214803b05253301a4fda584 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-23T06:32:02.469Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:32:17.930Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:32:17.955Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6214803b05253301a4fda584 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-23T06:32:20.538Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:33:01.265Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:33:01.291Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:33:21.184Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:33:21.207Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:34:41.365Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:34:41.392Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:35:07.888Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:35:07.913Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:35:43.184Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:35:43.215Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:36:48.926Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:36:49.042Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:37:31.954Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:37:31.980Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:38:05.312Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:38:05.342Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:38:45.393Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:38:45.422Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'Authorization')
+    at _callee$ (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:40:40)
+    at tryCatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at bookAuth (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:34:22)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:365:14) 
+    url - /api/v1/cart/add/6215178d05253301a4fda5c4 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-23T06:40:08.882Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:41:07.156Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:41:07.206Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:41:30.039Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:41:30.066Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:41:48.489Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:41:48.520Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T06:42:10.293Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T06:42:10.319Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215178d05253301a4fda5c4 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-23T08:26:10.333Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/cart/add/6215178d05253301a4fda5c4 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-23T08:27:00.339Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T08:27:19.075Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T08:27:19.119Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'Authorization')
+    at _callee$ (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:40:40)
+    at tryCatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at bookAuth (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:34:22)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/cart 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-23T08:30:13.613Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T08:30:34.410Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T08:30:34.447Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T08:31:30.630Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T08:31:30.707Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T08:32:09.303Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T08:32:09.352Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'Authorization')
+    at _callee$ (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:40:40)
+    at tryCatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at bookAuth (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\src\middlewares\/auth.middleware.js:34:22)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\anand\Desktop\Coder\BookStore\BookStoreBackEnd\bookstorebackend\node_modules\express\lib\router\index.js:365:14) 
+    url - /api/v1/cart/increase/6214803b05253301a4fda584 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-23T10:22:42.098Z"}
+info: Server started at http://localhost:3003/api/v1/ {"timestamp":"2022-06-23T10:25:02.364Z"}
+info: Connected to the database. {"timestamp":"2022-06-23T10:25:02.404Z"}
